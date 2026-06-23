@@ -1,1 +1,1 @@
-# Trsitao Tech
+# Tristao Tech
