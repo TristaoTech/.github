@@ -4,7 +4,7 @@
 
 ### Transformando ideias em sosluções digitais de alto impacto.
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=F7D100&center=true&vCenter=true&width=800&lines=Desenvolvimento+de+Sites+e+Aplicações;Soluções+Digitais+para+a+sua+Empresas;Arquitetura+Escalável+e+Moderna;Transformando+Desafios+em+Tecnologia" alt="Typing SVG" />
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=F7D100&center=true&vCenter=true&width=800&lines=Desenvolvimento+de+Sites+e+Aplicações;Soluções+Digitais+para+Empresas;Arquitetura+Escalável+e+Moderna;Transformando+Desafios+em+Tecnologia)
 
 <br>
 
@@ -26,7 +26,9 @@ Desenvolvemos desde **sites institucionais**, **landing pages**, **portais corpo
 Nosso objetivo é unir tecnologia, estratégia e inovação para criar produtos digitais que gerem resultados reais para nossos clientes.
 
 
-> **Desenvolvendo o próximo nível da sua empresa.**
+
+```Desenvolvendo o próximo nível da sua empresa```
+
 </div>
 
 ---
